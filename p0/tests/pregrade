@@ -1,0 +1,14 @@
+#!/bin/bash
+
+PROJECT=P0
+TEST_HOME=/p/course/cs537-oliphant/tests/$PROJECT
+TEST_SCRIPT=${TEST_HOME}/test-p0.csh
+HANDIN_DIR="/p/course/cs537-oliphant/handin/$USER/$PROJECT"
+
+echo "Running tests on handin directory for $USER"
+
+echo "cd $HANDIN_DIR"
+cd $HANDIN_DIR
+
+echo "$TEST_SCRIPT"
+$TEST_SCRIPT

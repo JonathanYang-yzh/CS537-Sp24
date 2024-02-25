@@ -1,0 +1,1 @@
+cp ~cs537-1/tests/P1/tests-madcounter/phenomenal.txt .; ./MADCounter -f phenomenal.txt -Ll;

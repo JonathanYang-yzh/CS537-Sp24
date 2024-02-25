@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+make clean
+
+rm -f test_*.c
+rm -rf tests-out/

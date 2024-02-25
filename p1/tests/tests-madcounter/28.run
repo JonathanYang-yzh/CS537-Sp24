@@ -1,0 +1,1 @@
+./MADCounter -f ~cs537-1/tests/P1/tests-madcounter/shakespeare.txt -o out28.txt -c -w -Lw; cat out28.txt;

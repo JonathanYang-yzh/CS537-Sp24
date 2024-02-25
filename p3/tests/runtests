@@ -1,0 +1,8 @@
+#!/bin/bash
+
+~cs537-1/tests/P3/test-cd.csh
+~cs537-1/tests/P3/test-exec.csh
+~cs537-1/tests/P3/test-pipe.csh
+~cs537-1/tests/P3/test-history.csh
+~cs537-1/tests/P3/test-variables.csh
+~cs537-1/tests/P3/test-batch.csh

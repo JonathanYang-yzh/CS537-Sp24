@@ -1,0 +1,5 @@
+To run the tests in this directory, you should be in the directory where you have your "hw.c" file and then run the command:
+
+~cs537-1/tests/P0/test-p0.csh
+
+This will try and compile your hw.c file to generate the a.out file, and then run a.out to make sure the output is "hello, world\n".

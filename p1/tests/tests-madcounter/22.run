@@ -1,0 +1,1 @@
+cp ~cs537-1/tests/P1/tests-madcounter/hailstones.txt .; cp ~cs537-1/tests/P1/tests-madcounter/singleBatchToFile.txt .; ./MADCounter -B singleBatchToFile.txt; cat out22.txt;

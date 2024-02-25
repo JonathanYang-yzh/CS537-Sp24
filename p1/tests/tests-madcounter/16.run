@@ -1,0 +1,1 @@
+cp ~cs537-1/tests/P1/tests-madcounter/hailstones.txt .; ./MADCounter -f hailstones.txt -c -w -l -Lw -Ll;

@@ -1,0 +1,1 @@
+cp ~cs537-1/tests/P1/tests-madcounter/hailstones.txt .; cp ~cs537-1/tests/P1/tests-madcounter/hollow.txt .; cp ~cs537-1/tests/P1/tests-madcounter/phenomenal.txt .; cp ~cs537-1/tests/P1/tests-madcounter/multipleBatchWErrors.txt .; ./MADCounter -B multipleBatchWErrors.txt;

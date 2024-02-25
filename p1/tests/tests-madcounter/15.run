@@ -1,0 +1,1 @@
+cp ~cs537-1/tests/P1/tests-madcounter/multipleLl.txt .; ./MADCounter -f multipleLl.txt -Ll;

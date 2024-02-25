@@ -1,0 +1,5 @@
+bash -c "$myenvvar"
+export myenvvar=uname
+bash -c "$myenvvar"
+export myenvvar=
+bash -c "$myenvvar"
